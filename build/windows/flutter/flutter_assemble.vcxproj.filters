@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="A:\flutter projects\flutter_ui\travel_app\build\windows\CMakeFiles\ce7f82e70a46d0f46594b60d6d8ca6a6\flutter_windows.dll.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="A:\flutter projects\flutter_ui\travel_app\build\windows\CMakeFiles\eef04ef1b963e56e67c924ba0e484425\flutter_assemble.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="A:\flutter projects\flutter_ui\travel_app\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="A:\flutter projects\flutter_ui\travel_app\build\windows\flutter\CMakeFiles\flutter_assemble" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{F5D0EFB2-1579-363C-A38C-C202C151BBC0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
